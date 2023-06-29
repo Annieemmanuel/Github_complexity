@@ -13,6 +13,10 @@ This Flask application analyzes the technical complexity of code snippets from G
 2. pip install -r requirements.txt
 3. Set up OpenAI API credentials:
 
+https://github.com/Annieemmanuel/mercor/assets/25452877/b99bdbd8-0615-474d-aa7b-3a996a9d3cd2
+
+
+
 Sign up for an OpenAI account at https://openai.com/.
 Generate an API key and replace openai_key with your API key in the openai.api_key line of app.py.
 4. python mercor_test.py
