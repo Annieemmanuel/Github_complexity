@@ -6,7 +6,7 @@ import openai
 app = Flask(__name__)
 
 # Set up OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = 'openapi-key'
 
 def fetch_user_repositories(github_url):
     username = github_url.split("/")[-1]
